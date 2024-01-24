@@ -1,0 +1,14 @@
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/bin/Debug/net8.0/Año Bisiesto
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/bin/Debug/net8.0/Año Bisiesto.deps.json
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/bin/Debug/net8.0/Año Bisiesto.runtimeconfig.json
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/bin/Debug/net8.0/Año Bisiesto.dll
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/bin/Debug/net8.0/Año Bisiesto.pdb
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/obj/Debug/net8.0/Año Bisiesto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/obj/Debug/net8.0/Año Bisiesto.AssemblyInfoInputs.cache
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/obj/Debug/net8.0/Año Bisiesto.AssemblyInfo.cs
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/obj/Debug/net8.0/Año Bisiesto.csproj.CoreCompileInputs.cache
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/obj/Debug/net8.0/Año Bisiesto.dll
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/obj/Debug/net8.0/refint/Año Bisiesto.dll
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/obj/Debug/net8.0/Año Bisiesto.pdb
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/obj/Debug/net8.0/Año Bisiesto.genruntimeconfig.cache
+/Users/sebarobbie/Documents/Coding/Año Bisiesto/obj/Debug/net8.0/ref/Año Bisiesto.dll
